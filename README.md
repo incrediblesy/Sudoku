@@ -112,7 +112,7 @@ lib/
 -   Mistakes are tracked, and the game ends if you reach the maximum allowed mistakes.
 -   Conflicts are highlighted dynamically.
 
-## 📚 Dependencies
+## Dependencies
 
 | Name                                                                      | Version | Description                                                    |
 | ------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- |
@@ -122,19 +122,19 @@ lib/
 | [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons) | ^0.14.4 | A package for adding launcher icons to Flutter apps            |
 | [shared_preferences](https://pub.dev/packages/shared_preferences)         | ^2.5.3  | A Flutter package for accessing the shared preferences.        |
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📝 License
+## License
 
 Distributed under the Attribution-NonCommercial-ShareAlike 4.0 International License. See [LICENSE](LICENSE) for more information.
 
-## 📧 Contact
+## Contact
 
 -   [Email](mailto:shokh.xyz@gmail.com)
--   [GitHub](https://github.com/ShokhrukhbekYuldoshev)
+-   [GitHub](https://github.com/incrediblesy)
 
-## 🌟 Show your support
+## Show your support
 
 Give a ⭐️ if you like this project!
